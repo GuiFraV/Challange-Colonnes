@@ -1,8 +1,8 @@
-Word in Progress : (Rendre la page Responsive)
+Challenge Front-End :  Rendre la page Responsive
 
 Difficulté : CSS Grid Lay Out, le rendre responsive :
 
-1 er Résultat : 
+1er Résultat : 
 
 ![Screenshot](Colonnes.png)
 

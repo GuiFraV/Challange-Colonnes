@@ -1,5 +1,7 @@
 Challenge Front-End :  Rendre la page Responsive
 
+Utilisation du CSS/HTML et de Media query
+
 Difficulté : CSS Grid Lay Out, le rendre responsive :
 
 1er Résultat : 
